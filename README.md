@@ -1,7 +1,9 @@
 # gitlearn
 
 **获取ssh**
- ssh-keygen -t rsa -C “wangtao@bamaying.com”
+
+
+    $ ssh-keygen -t rsa -C “wangtao@bamaying.com”
 
 1. git init
 
