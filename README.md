@@ -1,5 +1,8 @@
 # gitlearn
 
+**获取ssh**
+ ssh-keygen -t rsa -C “wangtao@bamaying.com”
+
 1. git init
 
     将一个目录初始化为 Git 仓库
